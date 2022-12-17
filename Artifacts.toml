@@ -1,0 +1,64 @@
+[[libboxer]]
+arch = "aarch64"
+git-tree-sha1 = "4dee647793951795b9494881b5fa26e93b973d9b"
+libc = "glibc"
+os = "linux"
+
+    [[libboxer.download]]
+    sha256 = "cdb61a12df970edc650e3d4c0fdd833f31565d4eb36f03690a05c1dc37e1bb7e"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.aarch64-linux-gnu.tar.gz"
+[[libboxer]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cd54deb21f7073cd62eee2df3dd5617b7d80d924"
+libc = "glibc"
+os = "linux"
+
+    [[libboxer.download]]
+    sha256 = "f80e880be0000aded03afaa918ef167113e1606876d8377d1c5c17cff46dec90"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[libboxer]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a3133dd7a3627fdc3a25426dfa2d27ad28b9695e"
+libc = "glibc"
+os = "linux"
+
+    [[libboxer.download]]
+    sha256 = "8fc3e659daad5a54ec3a19e619ce2d8cae57df617f84ab25f25ef5a1f52f58ff"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[libboxer]]
+arch = "i686"
+git-tree-sha1 = "31a4269b18684f0282e4daf98036eef9821185eb"
+libc = "glibc"
+os = "linux"
+
+    [[libboxer.download]]
+    sha256 = "a1f147feb77b6d1bb5b6e756f4d2a909d25713050c21737654b70abed5748d40"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.i686-linux-gnu.tar.gz"
+[[libboxer]]
+arch = "powerpc64le"
+git-tree-sha1 = "e5ca1ef002c78cd409f311016b20ab902fd84047"
+libc = "glibc"
+os = "linux"
+
+    [[libboxer.download]]
+    sha256 = "8344114201be258b9069cada36a8ff5cc55633e4572152bb2e65eec176122f3d"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.powerpc64le-linux-gnu.tar.gz"
+[[libboxer]]
+arch = "x86_64"
+git-tree-sha1 = "96a67327bd1d6fff118bce415ce2543af60e195f"
+libc = "glibc"
+os = "linux"
+
+    [[libboxer.download]]
+    sha256 = "4c3612c77cbb1003ca4c435a2390b7c2699f9074ff1a8b74b0716461c4687181"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.x86_64-linux-gnu.tar.gz"
+[[libboxer]]
+arch = "x86_64"
+git-tree-sha1 = "f3435073ced17abf912af12c88943bc55656ad27"
+os = "windows"
+
+    [[libboxer.download]]
+    sha256 = "c398759d211370ca0c794185ab60457b2b34a5c5aa6e34829a7a298c0982e696"
+    url = "https://github.com/JuliaBinaryWrappers/libboxer_jll.jl/releases/download/libboxer-v0.2.0+0/libboxer.v0.2.0.x86_64-w64-mingw32.tar.gz"
